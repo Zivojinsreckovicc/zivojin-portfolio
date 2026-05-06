@@ -1,0 +1,36 @@
+# Robots — Živojin portfolio
+# Replace https://zivojin.dev everywhere below if your production domain differs.
+
+User-agent: *
+Allow: /
+
+# Common AI / LLM crawlers (allow read-only use of public pages)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# Machine-readable site summary for LLMs (see https://llmstxt.org/)
+# Optional hint — not all crawlers read this line.
+# LLMs-txt: https://zivojin.dev/llms.txt
+
+Sitemap: https://zivojin.dev/sitemap.xml

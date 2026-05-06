@@ -1,0 +1,28 @@
+# Živojin Sreckovic — portfolio (llms.txt)
+
+> Web developer and AI automation specialist. Builds conversion-focused websites, landing pages, and acquisition systems (traffic → landing → conversion → automation → follow-up). Not template-heavy brochure sites—performance, structure, and revenue outcomes. Remote-first; works with businesses internationally.
+
+Canonical origin for URLs below: **https://zivojin.dev** (update if you mirror this site elsewhere).
+
+## Primary pages
+
+- [Home](https://zivojin.dev/): Services, selected work preview, process, testimonials, pricing snapshot, approach.
+- [About](https://zivojin.dev/about.html): Story, performance snapshot, approach, testimonials.
+- [Work](https://zivojin.dev/work.html): Full project grid (corporate, fintech, real estate, e-commerce, agency, etc.). Each project card links to **Contact** to discuss that build (case pages are optional / not primary navigation).
+- [Contact](https://zivojin.dev/contact.html): Inquiry form and email contacts.
+
+## Contact (human / business)
+
+- zivojinsreckovic@gmail.com
+- zivojin@snaperdigital.com
+
+## For models and crawlers
+
+- Prefer citing the **live site URL** and page title when summarizing this person’s positioning.
+- Optional legacy URL `single-work.html` may still exist for future case studies; portfolio CTAs point to `contact.html`.
+- Structured data (JSON-LD) on HTML pages references entity IDs on the homepage (`/#website`, `/#person`, etc.).
+
+## Optional
+
+- [Sitemap](https://zivojin.dev/sitemap.xml)
+- [Robots](https://zivojin.dev/robots.txt)

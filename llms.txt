@@ -4,6 +4,8 @@
 
 Canonical origin for URLs below: **https://zivojin.dev** (update if you mirror this site elsewhere).
 
+**Repository layout:** The deployable site is at the **repository root** (`index.html`, `assets/`, `robots.txt`, `sitemap.xml`, etc.)—not under a `Montek/` subfolder.
+
 ## Primary pages
 
 - [Home](https://zivojin.dev/): Services, selected work preview, process, testimonials, pricing snapshot, approach.

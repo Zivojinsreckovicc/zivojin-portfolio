@@ -92,7 +92,7 @@
 .main-header .header-lower .logo-box .logo{
 	position:relative;
 	padding: 20px 0px;
-	width: 210px;
+	width: 150px;
 }
 
 .main-header .main-menu .navigation > li:nth-child(7) > ul,
@@ -780,7 +780,7 @@
 }
 
 .mobile-menu .nav-logo img{
-	max-width:200px;
+	max-width:150px;
 }
 
 .mobile-menu-visible{
